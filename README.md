@@ -1,5 +1,5 @@
 # LitePlacer-Upper_Camera-Mount-Short
-**This is a redesign of the LitePlacer upper camera mount. **
+This is a redesign of the LitePlacer upper camera mount that reduces its front profile.
 
 One of the issues that some people have encountered with the standard mount that comes with the LitePlacer, is the mount size is long in the Y axis direction, causing it collide with certain feeders.
 
